@@ -1,4 +1,4 @@
-module github.com/blue-monads/sqlite-fat
+module github.com/blue-monads/fat-sqlite
 
 go 1.24.0
 
