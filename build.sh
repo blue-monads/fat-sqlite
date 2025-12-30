@@ -10,6 +10,9 @@ GO_SQLITE3_URL="https://github.com/ncruces/go-sqlite3/archive/refs/tags/v0.30.3.
 GO_SQLITE3_FILE="go-sqlite3-v0.30.3.tar.gz"
 SQLITE_VEC_URL="https://github.com/asg017/sqlite-vec/releases/download/v0.1.7-alpha.2/sqlite-vec-0.1.7-alpha.2-amalgamation.tar.gz"
 SQLITE_VEC_FILE="sqlite-vec-0.1.7-alpha.2-amalgamation.tar.gz"
+LIBSPATIALITE_URL="https://www.gaia-gis.it/gaia-sins/libspatialite-sources/libspatialite-5.1.0.tar.gz"
+LIBSPATIALITE_FILE="libspatialite-5.1.0.tar.gz"
+
 
 CACHE_DIR="download-cache"
 
