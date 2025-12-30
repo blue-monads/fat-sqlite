@@ -48,3 +48,6 @@ tar xzf "$CACHE_DIR/$SQLITE_VEC_FILE" -C output/sqlite3
 
 # Copy output Wasm
 mv output/embed/sqlite3.wasm sqlite-vec.wasm
+
+# compress the wasm file
+gzip -9 sqlite-vec.wasm
